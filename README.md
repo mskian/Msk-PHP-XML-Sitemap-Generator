@@ -1,6 +1,6 @@
 ## Msk PHP XML Sitemap Generator
 
-### Create Sitemap Using PHP and MYSQL
+### Create Dynamic XML Sitemap Using PHP and MYSQL
 
 - Open **query.sql** & copy the SQL queries
 - Run the copied SQL queries to create a table for sitemap
